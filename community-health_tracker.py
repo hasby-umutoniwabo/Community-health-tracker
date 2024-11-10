@@ -339,5 +339,5 @@ def main():
             print(f"\n❌ An error occurred: {str(e)}")
             input("Press Enter to continue...")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
